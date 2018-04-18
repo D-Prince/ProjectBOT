@@ -1,0 +1,17 @@
+{
+  "name": "projectbot",
+  "version": "1.0.0",
+  "description": "Personal Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "mehedi"
+  },
+  "keywords": [
+    "ProjectBOT"
+  ],
+  "author": "Mehedi",
+  "license": "MIT",
+  "dependencies": {
+    "claudia-bot-builder": "^4.0.0"
+  }
+}
